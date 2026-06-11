@@ -5,6 +5,7 @@ This workspace now includes a `docs` folder ready for GitHub Pages.
 Files prepared:
 
 - `docs/gravimon_radar.json`
+- `docs/snowbound_solutions_infrasound.json`
 - `docs/index.html`
 
 ### Publish steps
@@ -21,6 +22,8 @@ Files prepared:
 The direct JSON URL for ArcGIS Velocity will be:
 
 `https://<github-username>.github.io/<repo-name>/gravimon_radar.json`
+
+`https://<github-username>.github.io/<repo-name>/snowbound_solutions_infrasound.json`
 
 ### ArcGIS Velocity feed settings
 
